@@ -21,7 +21,7 @@
   \label{fig:}
 \end{figure}
 
-%% if want a note for a figure, put following command below "\caption{}"
+%% if want a note for a figure, put following command above "\caption{}"
 %% note the use of \par at the end of the footnote-sized material is necessary
 
 \medskip % induce some separation between caption and explanatory material
